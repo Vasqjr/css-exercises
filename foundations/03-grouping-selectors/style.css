@@ -1,0 +1,13 @@
+.FirstButton {
+ background-color: rgb(0, 0, 0);
+ color: rgb(255, 255, 255);
+}
+
+.SecondButton {
+ background-color: #f6ff00;
+}
+
+button {
+    font-size: 28px;
+    font-family: 'Helvetica' 'Times New Roman', 'sans-serif';
+}
